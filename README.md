@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Exbook Application](https://github.com/Ejden/exbook-backend)
 
-- 🌱 I’m currently learning **Kotlin, Python**
+- 🌱 I’m currently learning **Kotlin, Swift**
 
 - 📫 How to reach me **adrian.stypinski@gmail.com**
 
